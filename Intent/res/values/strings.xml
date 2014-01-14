@@ -8,5 +8,7 @@
     <string name="title_activity_minha_terceira">MinhaTerceiraActivity</string>
     <string name="title_activity_minha_quarta">MinhaQuartaActivity</string>
     <string name="title_activity_main_teste">MainActivity</string>
+    <string name="title_activity_minha_quinta">MinhaQuintaActivity</string>
+    <string name="title_activity_minha_setima">MinhaSetimaActivity</string>
 
 </resources>
